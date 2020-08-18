@@ -1,7 +1,6 @@
 # Capstone-Project- Onilne_Shoppers_Intention
-
-- Problem Definition - Developing a Machine Learning model aimed at Predicting the online shoppers purchase intentions(Yes/No)
-- Objective          - We can identify the unique pattern for the shoppers with the help of past data and identify the future customers intention.
+Problem Definition - Developing a Machine Learning model aimed at Predicting the online shoppers purchase intentions(Yes/No)
+Objective          - We can identify the unique pattern for the shoppers with the help of past data and identify the future customers intention.
                      - Can identify the potential customers.
                      - Gather insights on the features to target to improvise the customer conversion rate.
 
