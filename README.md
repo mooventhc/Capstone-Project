@@ -29,4 +29,6 @@ Administrative, Informational, Product Related represent the number of different
 
 The Bounce Rate, Exit Rate and Page Value features represent the metrics measured by "Google Analytics" for each page in the e-commerce site.
 
-Dataset
+## Exploratory Data Analysis
+
+
